@@ -1,0 +1,7 @@
+com\cfh\modelswitch\processor\impl\VoProcessorImpl.class
+com\cfh\modelswitch\annotation\Vo.class
+com\cfh\modelswitch\annotation\OperationEnum.class
+com\cfh\modelswitch\processor\VoProcessor.class
+com\cfh\modelswitch\annotation\FieldTypeEnum.class
+com\cfh\modelswitch\annotation\Mapped.class
+com\cfh\modelswitch\processor\impl\VoProcessorImpl$1.class
